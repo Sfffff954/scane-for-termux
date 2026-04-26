@@ -94,3 +94,7 @@ python scanner.py
 ## Lizenz
 
 MIT
+## upgrade 
+cd scane-for-termux
+git pull
+python scanner.py
